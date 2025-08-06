@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinuja Wanmini</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=58A6FF&lines= Apassionate+developer+from+Sri+Lanka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=58A6FF&lines= A+passionate+developer+from+Sri+Lanka" alt="Typing SVG" />
 </p>
 
 

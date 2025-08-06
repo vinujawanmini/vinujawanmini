@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **OOP with Java**
 
-- I’m an undergraduate **at SLIIT**
+- 👩‍🎓 I’m an undergraduate **at SLIIT**
 
 - 💬 Ask me about **Java**
 

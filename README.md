@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinujawanmini" alt="vinujawanmini" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
-
 - 👩‍🎓 I’m an undergraduate **at SLIIT**
+
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Java**
 

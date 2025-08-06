@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **vinujawanmini620@gmail.com**
+- 📩 How to reach me **vinujawanmini620@gmail.com**
 
-- ⚡ Fun fact **call me as Vinu**
+- ⭐ Fun fact **call me as Vinu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
